@@ -75,7 +75,7 @@ QED adds barrier analysis and continuous position scaling for trading.
 ## Limitations
 
 - Single-period backtests (no walk-forward robustness testing)
-- Transaction costs not modeled in IRL
+- Transaction costs not modeled
 - QED shows numerical instabilities at extreme barrier strengths
 - Limited to technical signals (no fundamental data)
 
